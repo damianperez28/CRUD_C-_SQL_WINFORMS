@@ -3,7 +3,7 @@
 *.json
 bin/
 obj/
-App.config
+Veterinaria/App.config
 
 # Ada Library Information
 *.ali
