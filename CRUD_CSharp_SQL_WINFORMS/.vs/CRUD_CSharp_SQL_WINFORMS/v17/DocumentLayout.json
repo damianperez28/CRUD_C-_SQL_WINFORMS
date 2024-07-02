@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damian\\Desktop\\CRUD_C-_SQL_WINFORMS\\CRUD_CSharp_SQL_WINFORMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D54D13C-F73A-4463-BA7C-F5597ADB8737}|Veterinaria\\Veterinaria.csproj|c:\\users\\damian\\desktop\\crud_c-_sql_winforms\\crud_csharp_sql_winforms\\veterinaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D54D13C-F73A-4463-BA7C-F5597ADB8737}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D54D13C-F73A-4463-BA7C-F5597ADB8737}|Veterinaria\\Veterinaria.csproj|c:\\users\\damian\\desktop\\crud_c-_sql_winforms\\crud_csharp_sql_winforms\\veterinaria\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D54D13C-F73A-4463-BA7C-F5597ADB8737}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\bbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D54D13C-F73A-4463-BA7C-F5597ADB8737}|Veterinaria\\Veterinaria.csproj|C:\\Users\\Damian\\Desktop\\CRUD_C-_SQL_WINFORMS\\CRUD_CSharp_SQL_WINFORMS\\veterinaria\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D54D13C-F73A-4463-BA7C-F5597ADB8737}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\CRUD_C-_SQL_WINFORMS\\CRUD_CSharp_SQL_WINFORMS\\Veterinaria\\Form1.cs",
+              "RelativeDocumentMoniker": "Veterinaria\\Form1.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\CRUD_C-_SQL_WINFORMS\\CRUD_CSharp_SQL_WINFORMS\\Veterinaria\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Veterinaria\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:00:27.643Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\CRUD_C-_SQL_WINFORMS\\CRUD_CSharp_SQL_WINFORMS\\Veterinaria\\App.config",
+              "RelativeDocumentMoniker": "Veterinaria\\App.config",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\CRUD_C-_SQL_WINFORMS\\CRUD_CSharp_SQL_WINFORMS\\Veterinaria\\App.config",
+              "RelativeToolTip": "Veterinaria\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T00:36:34.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BBDD.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\CRUD_C-_SQL_WINFORMS\\CRUD_CSharp_SQL_WINFORMS\\Veterinaria\\BBDD.cs",
+              "RelativeDocumentMoniker": "Veterinaria\\BBDD.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\CRUD_C-_SQL_WINFORMS\\CRUD_CSharp_SQL_WINFORMS\\Veterinaria\\BBDD.cs",
+              "RelativeToolTip": "Veterinaria\\BBDD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:23:24.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
