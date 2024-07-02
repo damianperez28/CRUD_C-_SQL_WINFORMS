@@ -1,9 +1,9 @@
 # Object file
 *.o
-*.config
+*.json
 bin/
 obj/
-
+App.config
 
 # Ada Library Information
 *.ali
